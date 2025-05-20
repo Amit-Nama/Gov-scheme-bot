@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f3f3;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+form label {
+  display: block;
+  margin-bottom: 10px;
+}
+input, select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+}
+button {
+  padding: 10px 20px;
+  background: green;
+  color: white;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+#result {
+  margin-top: 20px;
+}

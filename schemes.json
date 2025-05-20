@@ -1,0 +1,28 @@
+[
+  {
+    "name": "PM Kisan Samman Nidhi",
+    "minAge": 18,
+    "maxIncome": 600000,
+    "caste": ["general", "obc", "sc", "st"],
+    "occupation": ["farmer"],
+    "documents": ["Aadhar Card", "Bank Passbook"],
+    "howToApply": "Apply via PM-KISAN portal or nearest CSC.",
+    "description": "Income support to farmers of ₹6000 per year."
+  },
+  {
+    "name": "Ayushman Bharat Yojana",
+    "caste": ["general", "obc", "sc", "st"],
+    "documents": ["Aadhar Card", "Ration Card"],
+    "howToApply": "Visit nearest hospital or CSC to apply.",
+    "description": "Health insurance for low-income families."
+  },
+  {
+    "name": "Ujjwala Yojana",
+    "caste": ["obc", "sc", "st"],
+    "occupation": ["housewife", "unemployed"],
+    "maxIncome": 120000,
+    "documents": ["Aadhar Card", "Ration Card"],
+    "howToApply": "Apply via gas agency or CSC.",
+    "description": "Free LPG connection to eligible women."
+  }
+]
